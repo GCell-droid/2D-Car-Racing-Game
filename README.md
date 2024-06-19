@@ -35,5 +35,5 @@ Objective: Avoid collisions with oncoming obstacles (represented by **) to score
 
 Scoring: Each successful evasion increments the score displayed on-screen.
 
-Contributors
+Contributors:
 Nitesh Parihar: C++ Developer(Created Car menu, classes, difficulty level mechanics)
