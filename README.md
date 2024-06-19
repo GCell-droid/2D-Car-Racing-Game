@@ -28,7 +28,7 @@ Build the Project: Compile the source files using a C++ compiler that supports C
 
 Run the Game: Execute the compiled binary (game.exe or game) to launch the game. Follow the on-screen instructions to register, login, and play.
 
-How to Play
+## How to Play
 Navigation: Use 'A' key to move left and 'D' key to move right.
 
 Objective: Avoid collisions with oncoming obstacles (represented by **) to score points.
